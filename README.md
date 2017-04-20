@@ -1,0 +1,2 @@
+# magicinfo
+SL realtidsinformation
